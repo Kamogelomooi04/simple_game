@@ -1,6 +1,6 @@
 # simple_game
 
-This is a simple game coded with **pygame**.
+This is a simple game built with **pygame**.
 The game contains one character obeject that will represent the player, three enemy objects
 that will represent the enemies & one prize object representing the prize.
 
